@@ -6,6 +6,10 @@ float nota = 7.5f;
  Console.ReadLine();
 
 
+
+
+//add
+
 string nome1 = "paulo";
 int idade1 = 17;
 float nota1 = 7.5f;
